@@ -1,0 +1,34 @@
+<TEMPLATE APPNAME="FLASHMENU" VER_NUMBER="2" VER_LOWNUMBER="2" TYPE="4" SWF_NAME="gallery_2" SUB_LEVEL="1" CATALOG="5" SWF_SHOWNAME="gallery_2" WIDTH="385" HEIGHT="315" BGCOLOR="0xFFFFFF" FLASHBGCOLOR="0x000000" TRANSPARENT="true">
+	<GROUP_ATTRIBUTE>
+		<PARAM ID="114" DF_VALUE="new item"/>
+		<PARAM ID="2" DF_VALUE=""/>
+		<PARAM ID="3" DF_VALUE="_blank,_parent,_self,_top"/>
+		<PARAM ID="51" DF_VALUE=""/>
+		<PARAM ID="101" DF_VALUE=""/>
+	</GROUP_ATTRIBUTE>
+	<GROUP_MENU>
+		<PARAM ID="558" DF_VALUE="20"/>
+		<PARAM ID="613" DF_VALUE="4"/>
+		<PARAM ID="600" DF_VALUE="0"/>
+		<PARAM ID="607" DF_VALUE="true"/>
+		<PARAM ID="608" DF_VALUE="true"/>
+		<PARAM ID="611" DF_VALUE="true"/>
+		<PARAM ID="605" DF_VALUE="0x0033CC"/>
+		<PARAM ID="620" DF_VALUE="@Adobe Heiti Std R"/>
+		<PARAM ID="621" DF_VALUE="35"/>
+		<PARAM ID="604" DF_VALUE="0xFFFFFF"/>
+		<PARAM ID="618" DF_VALUE="@Adobe Fangsong Std R"/>
+		<PARAM ID="619" DF_VALUE="25"/>
+	</GROUP_MENU>
+	<GROUP_SIZE>
+		<PARAM ID="140" DF_VALUE="385"/>
+		<PARAM ID="141" DF_VALUE="315"/>
+	</GROUP_SIZE>
+	<GROUP_PAGE>
+		<PARAM ID="143" DF_VALUE="0xFFFFFF"/>
+		<PARAM ID="144" DF_VALUE="0x000000"/>
+		<PARAM ID="145" DF_VALUE="true"/>
+	</GROUP_PAGE>
+	<MENU>
+		<item name="Convocatoria PROIN para estudiantes UNI" url="http://www.initec-uni.edu.pe/Novedades.html" callback="onClick" target="_blank" subTitle="Inscripciones del 1 al 26 de julio. Inicio 18 de agosto" image="//initec-uni.edu.pe/imagenes/novedad1.jpg"/><item name="Convocatoria PROIN UNMSM" url="http://www.initec-uni.edu.pe/Novedades.html" callback="onClick" target="_blank" subTitle="Inscripciones del 1 al 26 de julio. Inicio 18 de agosto" image="//initec-uni.edu.pe/imagenes/novedad2.jpg"/><item name="INITEC celebra primer aniversario" url="http://www.initec-uni.edu.pe/Novedades.html" callback="onClick" target="_blank" subTitle="Actividades realizadas durante su fundacion." image="//initec-uni.edu.pe/imagenes/novedad3.jpg"/><item name="Primer Innovaton" url="http://www.initec-uni.edu.pe/Novedades.html" callback="onClick" target="_blank" subTitle="Evento para elaborar proyectos de 24 horas seguidas" image="//initec-uni.edu.pe/imagenes/novedad4.jpg"/><item name="INITEC realiza alianzas  estrategicas" url="http://www.initec-uni.edu.pe/Novedades.html" callback="onClick" target="_blank" subTitle="Con CEPS-UNI, Sistemas UNI, IIFIC y CTIC" image="//initec-uni.edu.pe/imagenes/novedad5.jpg"/></MENU>
+</TEMPLATE>

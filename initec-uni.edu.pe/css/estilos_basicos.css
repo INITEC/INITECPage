@@ -1,0 +1,115 @@
+@charset "utf-8";
+#principal {
+	width: 952px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+	background-image: none;
+	background-repeat: repeat;
+	text-align: center;
+}
+#cuerpo {
+	width: 952px;
+	float: left;
+}
+
+
+#principal #pie {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background-color: #FFF;
+	padding: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	text-align: center;
+	vertical-align: middle;
+	background-image: url(../imagenes/pie%20de%20pagina.png);
+	background-repeat: no-repeat;
+	height: auto;
+	width: 952px;
+	background-position: center;
+}
+body {
+	background-image: none;
+	background-repeat: no-repeat;
+}
+#contenido {
+	background-color: #FFF;
+	background-image: url(../imagenes/fondo%20texto.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-size: 18px;
+	font-family: Calibri, Arial, Tahoma;
+	font-weight: normal;
+	font-variant: normal;
+	color: rgb(0,0,0);
+	width: 952px;
+	text-align: center;
+}
+
+#principal #contenido multiple #tabla table tr td #celda {
+	color: #F0F0F0;
+	background-image: url(../imagenes/fondo%20texto.png);
+	background-color: rgb(51,0,204);
+	background-position: top;
+}
+#principal #contenido #tabla #contenido2 #tabla2 table tr td #celda2 p {
+	text-align: center;
+}
+#principal #contenido #tabla #contenido2 #tabla2 table tr td #celda2 p {
+	text-align: justify;
+}
+#principal #contenido #cuadrito table tr td table tr td {
+	text-align: center;
+}
+#principal #contenido #cuadrito table tr td p {
+	text-align: left;
+	font-size: 18px;
+	font-family: Calibri, Arial, Tahoma;
+}
+#principal #contenido #cuadrito table tr td .centrar {
+	text-align: center;
+}
+#principal #contenido #cuadrito table tr td .centrar {
+	font-size: 24px;
+}
+#principal #contenido #cuadrito table tr td .centrar {
+	font-weight: bold;
+}
+#principal #contenido #cuadrito table tr td .centrar {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Calibri, Arial, Tahoma;
+}
+#contenido #cuadrito h1 {
+	color: rgb(0,0,0);
+}
+.Negro {
+	color: rgb(0,0,0);
+}
+#contenido #contenido #tabla table tr td #celda ul h2 {
+	color: rgb(0,0,0);
+}
+#contenido #contenido #tabla table tr td #celda ul ul li strong {
+	color: rgb(0,0,0);
+}
+#contenido #pie h4 {
+	color: rgb(0,0,0);
+}
+#principal #contenido #cuadrito blockquote blockquote p {
+	color: rgb(0,0,0);
+}
+#principal #contenido #cuadrito blockquote p {
+	color: rgb(0,0,0);
+}
+#principal #contenido #cuadrito blockquote blockquote p {
+	text-align: left;
+}
+#principal #contenido #cuadrito table tr td table tr th {
+	text-align: left;
+}
+#principal #contenido #cuadrito table tr td strong {
+	text-align: left;
+
+
+}

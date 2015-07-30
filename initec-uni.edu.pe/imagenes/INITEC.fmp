@@ -1,0 +1,44 @@
+<TEMPLATE APPNAME="FLASHMENU" VER_NUMBER="2" VER_LOWNUMBER="2" TYPE="4" SWF_NAME="gallery_1" SUB_LEVEL="1" CATALOG="5" SWF_SHOWNAME="gallery_1" WIDTH="952" HEIGHT="240" BGCOLOR="0x000000" FLASHBGCOLOR="0xFFFFFF" TRANSPARENT="false">
+	<GROUP_ATTRIBUTE>
+		<PARAM ID="110" DF_VALUE="new item"/>
+		<PARAM ID="111" DF_VALUE=""/>
+		<PARAM ID="112" DF_VALUE=""/>
+		<PARAM ID="113" DF_VALUE=""/>
+		<PARAM ID="2" DF_VALUE=""/>
+		<PARAM ID="3" DF_VALUE="_blank,_parent,_self,_top"/>
+		<PARAM ID="101" DF_VALUE=""/>
+	</GROUP_ATTRIBUTE>
+	<GROUP_MENU>
+		<PARAM ID="562" DF_VALUE="200"/>
+		<PARAM ID="561" DF_VALUE="40"/>
+		<PARAM ID="558" DF_VALUE="0"/>
+		<PARAM ID="613" DF_VALUE="7"/>
+		<PARAM ID="600" DF_VALUE="0"/>
+		<PARAM ID="606" DF_VALUE="true"/>
+		<PARAM ID="602" DF_VALUE="0x33FF99"/>
+		<PARAM ID="614" DF_VALUE="Arial"/>
+		<PARAM ID="615" DF_VALUE="25"/>
+		<PARAM ID="603" DF_VALUE="0xffffff"/>
+		<PARAM ID="616" DF_VALUE="Arial"/>
+		<PARAM ID="617" DF_VALUE="15"/>
+		<PARAM ID="605" DF_VALUE="0xCCCCCC"/>
+		<PARAM ID="620" DF_VALUE="@Adobe Kaiti Std R"/>
+		<PARAM ID="621" DF_VALUE="25"/>
+		<PARAM ID="604" DF_VALUE="0x99E895"/>
+		<PARAM ID="618" DF_VALUE="Arial"/>
+		<PARAM ID="619" DF_VALUE="15"/>
+		<PARAM ID="609" DF_VALUE="0xFF0000"/>
+		<PARAM ID="622" DF_VALUE="true"/>
+	</GROUP_MENU>
+	<GROUP_SIZE>
+		<PARAM ID="140" DF_VALUE="952"/>
+		<PARAM ID="141" DF_VALUE="240"/>
+	</GROUP_SIZE>
+	<GROUP_PAGE>
+		<PARAM ID="143" DF_VALUE="0x000000"/>
+		<PARAM ID="144" DF_VALUE="0xFFFFFF"/>
+		<PARAM ID="145" DF_VALUE="false"/>
+	</GROUP_PAGE>
+	<MENU>
+		<item name="INITEC" button_subtitle="Quienes Somos" image_title="Somos una organizacion dedicada" image_subtitle="a desarrollar la innovación con base en la investigación y el emprendimiento tecnológico" url="http://www.initec-uni.edu.pe/somos.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/uno.jpg"/><item name="PROIN" button_subtitle="Programa de Innovación" image_title="Ofrecemos un Programa de Innovacion" image_subtitle="a través de cursos y talleres orientados al aprendizaje de gestión de la innovación y el emprendimiento tecnológico" url="http://www.initec-uni.edu.pe/proin.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/dos.jpg"/><item name="INCUBA" button_subtitle="Incubación de Empresas" image_title="Ofrecemos un Programa de Incubacion de Empresas" image_subtitle="Contamos con mentores, alianzas estratégicas, redes de contactos y mucho mas" url="http://www.initec-uni.edu.pe/empresa.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/tres.jpg"/><item name="CONNOVA" button_subtitle="Innovación en Construcción" image_title="Plataforma Tecnologica para la Innovacion en Construccion" image_subtitle="Para estudiantes de Ing. Civil, arquitectura y todos los que deseen innovar en este campo" url="http://www.initec-uni.edu.pe/connova.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/cuatro.jpg"/><item name="INNSYSAT" button_subtitle="Innovación en Automatización" image_title="Plataforma Tecnologica Para Innovacion en Automatizacion" image_subtitle="Para estudiantes de Ing. Mecatrónica, electrónica, telecomunicaciones, mecánica y afines" url="http://www.initec-uni.edu.pe/inssysat.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/cinco.jpg"/><item name="PUNKU" button_subtitle="Innovación en STARTUP" image_title="Plataforma Tecnologica para iniciar tu STARTUP" image_subtitle="Para estudiantes de cualquier especialidad, con determinación de iniciar un emprendimiento tecnológico digital" url="http://www.initec-uni.edu.pe/punku.html" callback="onClick" target="_blank" image="//initec-uni.edu.pe/imagenes/seis.jpg"/></MENU>
+</TEMPLATE>

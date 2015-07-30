@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jet-Set</title>
+<link href="css/estilos_basicos.css" rel="stylesheet" type="text/css" />
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="principal">
+  <div id="encabezado"><img src="imagenes/banner.png" width="952" height="115" alt="Encabezado_logo" /></div>
+  <div id="menu">
+    <ul id="MenuBar1" class="MenuBarHorizontal">
+      <li><a href="index.html"> Inicio</a>      </li>
+      <li><a href="#" class="MenuBarItemSubmenu">Productos</a>
+        <ul>
+          <li><a href="proin.html">Programa de Innovación</a></li>
+          <li><a href="empresa.html">Incubación de Empresas</a></li>
+          <li><a href="connova.html">CONNOVA</a></li>
+          <li><a href="inssysat.html">INSSYSAT</a></li>
+          <li><a href="punku.html">PUNKU</a></li>
+</ul>
+      </li>
+      <li><a href="Novedades.html">Novedades</a></li>
+      <li><a href="eventos.html">Eventos</a></li>
+<li><a href="#" class="MenuBarItemSubmenu">Convocatorias</a>
+  <ul>
+    <li><a href="conovocatoriaUNI.html">Convocatoria UNI</a></li>
+    <li><a href="convocatoriaUNMSM.html">Convocatoria UNMSM</a></li>
+  </ul>
+</li>
+      <li><a href="somos.html">Quienes Somos</a>      </li>
+<li><a href="contactanos.html">Contactanos</a></li>
+    </ul>
+  </div>
+    <div id="contenido">
+    <div id="cuadrito">
+      <p>&nbsp;</p>
+      <h1>
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="952" height="240" id="FlashID" title="Jet-Set">
+          <param name="movie" value="imagenes/Jet-Set.swf" />
+          <param name="quality" value="high" />
+          <param name="wmode" value="opaque" />
+          <param name="swfversion" value="9.0.45.0" />
+          <!-- Esta etiqueta param indica a los usuarios de Flash Player 6.0 r65 o posterior que descarguen la versión más reciente de Flash Player. Elimínela si no desea que los usuarios vean el mensaje. -->
+          <param name="expressinstall" value="Scripts/expressInstall.swf" />
+          <!-- La siguiente etiqueta object es para navegadores distintos de IE. Ocúltela a IE mediante IECC. -->
+          <!--[if !IE]>-->
+          <object type="application/x-shockwave-flash" data="imagenes/Jet-Set.swf" width="952" height="240">
+            <!--<![endif]-->
+            <param name="quality" value="high" />
+            <param name="wmode" value="opaque" />
+            <param name="swfversion" value="9.0.45.0" />
+            <param name="expressinstall" value="Scripts/expressInstall.swf" />
+            <!-- El navegador muestra el siguiente contenido alternativo para usuarios con Flash Player 6.0 o versiones anteriores. -->
+            <div>
+              <h4>El contenido de esta página requiere una versión más reciente de Adobe Flash Player.</h4>
+              <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Obtener Adobe Flash Player" width="112" height="33" /></a></p>
+            </div>
+            <!--[if !IE]>-->
+          </object>
+          <!--<![endif]-->
+        </object>
+      </h1>
+     </div>
+  </div>
+  
+  <div id="contenido">
+    <div id="cuadrito">
+      <p>&nbsp;</p>
+      <h1 align="center">INCUBACIÓN DE EMPRESAS</h1>
+      <ul>
+        <ul>
+        </ul>
+El Grupo INITEC-UNI cuenta con una INCUBADORA DE EMPRESAS, para que los proyectos desarrollados por los integrantes del grupo posteriormente lleguen al mercado y tengan éxito. Actualmente el INITEC cuenta con tres lineas de innovación orientadas a diversas areas de la ingeniería.     
+      </ul>
+      <p>&nbsp;</p>
+    </div>
+      <div id="contenido"></div>
+ <div id="contenido">
+   <div id="tabla">
+    <table width="952" border="0" align="center">
+        <tr>
+          <td width="476">
+          <div id="celda">
+      <ul>
+        <h2>Lineas de innovación:<br />
+        </h2>
+        <ul>
+          <li><strong>StartUp - PUNKU</strong></li>
+        </ul>
+        <ul>
+          <li><strong>Construcción - CONNOVA</strong></li>
+        </ul>
+          <li><strong>Automatización - INSSYSAT</strong></li>
+        </ul>
+        </ul>
+        <p>&nbsp;</p>
+          </div>
+          </td>
+          <td width="514">
+          <div id="celda">
+    <h4>&nbsp;</h4>
+ <ul>
+          <li><strong>Capacitación</strong>        </li>
+ </ul>
+        <ul>
+          <ul>
+            <li><strong>Programación Audiovisual</strong></li>
+            <ul>
+              <li>Guión y cámara</li>
+              <li>Edición de audio y video</li>
+              <li>Desarrollo de efectos de videos</li>
+            </ul>
+            <li><strong>Diseño Gráfico</strong></li>
+            <ul>
+              <li>Corel Draw</li>
+              <li>Photoshop</li>
+            </ul>
+            <li><strong>Idiomas</strong></li>
+            <ul>
+              <li>Inglés              </li>
+            </ul>
+          </ul>
+        </ul>
+        <ul>
+          <ul>
+        </ul>
+    </ul>
+          </div>
+          </td>    
+        </tr>
+      </table>
+   </div>
+  </div>
+  <div id="pie">
+    <p>&nbsp;</p>
+    <h4>INITEC / Av. Tupac Amaru 210 Pabellon M / Tel: 4821621 Anexo 351 Universidad Nacional de Ingenieria</h4>
+    <h4>&nbsp;</h4>
+  </div>
+</div>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
